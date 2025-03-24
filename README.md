@@ -31,7 +31,8 @@ A fun word game where users provide random words, and the program fills them int
 
 ### 2️⃣ Guess the Number Game (Computer) 🎲
 A game where the **computer** randomly selects a number, and the **user** tries to guess it based on hints (higher/lower). 🔢
-[🔗 Google Colab Link](PUT_YOUR_COLAB_LINK_HERE)
+
+[🔗 Google Colab Link](https://colab.research.google.com/drive/13tf0H5OrzJLkMsesmFlCti7HDWnycd9q?usp=sharing)
 
 ### 3️⃣ Guess the Number Game (User) 🧠
 A reverse version of the game where the **user** thinks of a number, and the **computer** tries to guess it using logic. 🤔
