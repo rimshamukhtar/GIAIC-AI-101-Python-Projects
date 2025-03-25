@@ -27,6 +27,7 @@ Welcome to my AI-101 Python Projects repository! This repository contains all th
 
 ### 1️⃣ Mad Libs Python Project ✍️
 A fun word game where users provide random words, and the program fills them into a predefined story template to create a humorous output. 🤣
+
 [🔗 Google Colab Link](https://colab.research.google.com/drive/1FXJa2ySXjhOtTobROo39_MS9N8uB4aOJ?usp=sharing)
 
 ### 2️⃣ Guess the Number Game (Computer) 🎲
@@ -51,7 +52,8 @@ A word-guessing game where the user guesses letters in a word before running out
 
 ### 6️⃣ Countdown Timer ⏳
 A simple countdown timer that takes a specified time and counts down to zero, displaying updates in real-time. ⏱️
-[🔗 Google Colab Link](PUT_YOUR_COLAB_LINK_HERE)
+
+[🔗 Google Colab Link](https://colab.research.google.com/drive/1GGm58P9y2Yvyr-pNQ7t8LkIpup6fEj3U?usp=sharing)
 
 ### 7️⃣ Password Generator 🔐
 A program that generates strong and secure passwords based on user-defined criteria (length, special characters, etc.). 🛡️
