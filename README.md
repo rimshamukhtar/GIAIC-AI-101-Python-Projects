@@ -41,7 +41,8 @@ A reverse version of the game where the **user** thinks of a number, and the **c
 
 ### 4️⃣ Rock, Paper, Scissors Game ✊📄✂️
 A classic game where the user competes against the computer by choosing Rock, Paper, or Scissors. 🏆
-[🔗 Google Colab Link](PUT_YOUR_COLAB_LINK_HERE)
+
+[🔗 Google Colab Link](https://colab.research.google.com/drive/1LVozjAx71M0Li9qAJUiTs5xCtCGTSh_C?usp=sharing)
 
 ### 5️⃣ Hangman Game 🏹
 A word-guessing game where the user guesses letters in a word before running out of attempts. 🔤
