@@ -57,7 +57,8 @@ A simple countdown timer that takes a specified time and counts down to zero, di
 
 ### 7️⃣ Password Generator 🔐
 A program that generates strong and secure passwords based on user-defined criteria (length, special characters, etc.). 🛡️
-[🔗 Google Colab Link](PUT_YOUR_COLAB_LINK_HERE)
+
+[🔗 Google Colab Link](https://colab.research.google.com/drive/1Du6f4p8wpRrL4-pKv6cvlYtWvjISNo2c?usp=sharing)
 
 ### 8️⃣ BMI Calculator Web App (Streamlit) ⚖️
 A web-based BMI Calculator built using Streamlit that allows users to input their weight and height to calculate their BMI. 📊
