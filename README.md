@@ -46,7 +46,8 @@ A classic game where the user competes against the computer by choosing Rock, Pa
 
 ### 5️⃣ Hangman Game 🏹
 A word-guessing game where the user guesses letters in a word before running out of attempts. 🔤
-[🔗 Google Colab Link](PUT_YOUR_COLAB_LINK_HERE)
+
+[🔗 Google Colab Link](https://colab.research.google.com/drive/13hAYYoNFpIyjlZjhZvRPNbcXZmflvtGi?usp=sharing)
 
 ### 6️⃣ Countdown Timer ⏳
 A simple countdown timer that takes a specified time and counts down to zero, displaying updates in real-time. ⏱️
