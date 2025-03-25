@@ -36,7 +36,8 @@ A game where the **computer** randomly selects a number, and the **user** tries 
 
 ### 3️⃣ Guess the Number Game (User) 🧠
 A reverse version of the game where the **user** thinks of a number, and the **computer** tries to guess it using logic. 🤔
-[🔗 Google Colab Link](PUT_YOUR_COLAB_LINK_HERE)
+
+[🔗 Google Colab Link](https://colab.research.google.com/drive/1e7jxpWc7tJGPB8bkztg6bcCr2CV4o1L5?usp=sharing)
 
 ### 4️⃣ Rock, Paper, Scissors Game ✊📄✂️
 A classic game where the user competes against the computer by choosing Rock, Paper, or Scissors. 🏆
