@@ -21,7 +21,7 @@ Welcome to my AI-101 Python Projects repository! This repository contains all th
 
 8️⃣ BMI Calculator Web App (Streamlit)
 
-9️⃣ Python Website with Streamlit
+9️⃣ Personal Expense Tracker with Streamlit
 
 🔗 Each project has a dedicated folder with its Python script and a corresponding Google Colab link.
 
