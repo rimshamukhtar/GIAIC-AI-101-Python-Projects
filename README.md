@@ -70,8 +70,16 @@ A web-based BMI Calculator built using Streamlit that allows users to input thei
 ### 9️⃣ Personal Expense Tracker 💰
 A **personal finance tracking** application built using Python and Streamlit. It allows users to **record expenses**, **categorize spending**, and **visualize financial data** with interactive charts. 📊
 
-[🔗 Google Colab Link](PUT_YOUR_COLAB_LINK_HERE)
+[🔗 Google Colab Link](https://colab.research.google.com/drive/1ZsOlT8gew29JLeX8Z-BAgdIiuN-ZUwUc?usp=sharing)
+
+[🔗 Streamlit Live Link](https://personal-expense-tracker-lddpzmtegafmkexm9gxb8p.streamlit.app/)
+
 
 ---
 🔗 **Each project has its own folder containing the Python script and additional resources.**
+
+🚀**Stay tuned as I complete and update more projects! More exciting projects coming soon—keep learning and coding!** 💡🔥
+
+💬 ***Your feedback matters! If you have any suggestions or improvements, feel free to reach out. I appreciate your input—thank you!*** 😊
+
 
