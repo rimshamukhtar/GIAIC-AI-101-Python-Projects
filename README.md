@@ -67,8 +67,9 @@ A web-based BMI Calculator built using Streamlit that allows users to input thei
 
 [🔗 Streamlit Live Link](https://bmi-calculator-fdvixsd3y86nldf3jpxufh.streamlit.app/)
 
-### 9️⃣ Python Website with Streamlit 🌐
-A basic **web application** built using Streamlit that demonstrates how to create and deploy a simple Python-based website. 🚀
+### 9️⃣ Personal Expense Tracker 💰
+A **personal finance tracking** application built using Python and Streamlit. It allows users to **record expenses**, **categorize spending**, and **visualize financial data** with interactive charts. 📊
+
 [🔗 Google Colab Link](PUT_YOUR_COLAB_LINK_HERE)
 
 ---
