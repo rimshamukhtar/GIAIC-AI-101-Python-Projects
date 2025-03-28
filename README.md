@@ -62,7 +62,10 @@ A program that generates strong and secure passwords based on user-defined crite
 
 ### 8️⃣ BMI Calculator Web App (Streamlit) ⚖️
 A web-based BMI Calculator built using Streamlit that allows users to input their weight and height to calculate their BMI. 📊
-[🔗 Google Colab Link](PUT_YOUR_COLAB_LINK_HERE)
+
+[🔗 Google Colab Link](https://colab.research.google.com/drive/1PDQ-Tl1tX7ruH3AnCb5hOzblWKVqCSXl?usp=sharing)
+
+[🔗 Streamlit Live Link](https://bmi-calculator-fdvixsd3y86nldf3jpxufh.streamlit.app/)
 
 ### 9️⃣ Python Website with Streamlit 🌐
 A basic **web application** built using Streamlit that demonstrates how to create and deploy a simple Python-based website. 🚀
